@@ -9,5 +9,9 @@ int main()
 	Aa.showTab();
 	Aa.tworzTab();
 	Aa.showTab();
+
+	GitBomba* git = new GitBomba(5);
+	git->showTab();
+	delete git;
 	return 0;
 }
