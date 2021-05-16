@@ -13,5 +13,6 @@ int main()
 	GitBomba* git = new GitBomba(5);
 	git->showTab();
 	delete git;
+	//buziaczki
 	return 0;
 }
