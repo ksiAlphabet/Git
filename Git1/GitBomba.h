@@ -14,6 +14,7 @@ public:
 	void tworzTab();
 	
 	void showTab() const;
+	void strzelaniePociskami(int magazynek) const;
 	
 };
 
