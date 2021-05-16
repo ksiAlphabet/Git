@@ -15,3 +15,9 @@ void GitBomba::showTab() const {
 	}
 	cout << endl;
 }
+
+void GitBomba::strzelaniePociskami(int magazynek) const
+{
+	for (int i = 0; i < magazynek; i++)
+		cout << "Piu" << endl;
+}
